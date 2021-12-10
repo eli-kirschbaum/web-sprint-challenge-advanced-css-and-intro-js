@@ -250,7 +250,7 @@ function get20s(array) {
       myArray.push(array[i].name);
     }
   }
-  return myArray
+  return myArray;
 }
 
 
